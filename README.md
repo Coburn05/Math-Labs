@@ -1,2 +1,1 @@
-# Math-Labs
-Math labs so I can share them with partner
+Aidan this is for you, send me your account name when you make it so i can private this repo
